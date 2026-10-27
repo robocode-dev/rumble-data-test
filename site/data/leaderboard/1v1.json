@@ -1,0 +1,151 @@
+{
+  "behaviorVersion": 1,
+  "entries": [
+    {
+      "aps": 0.0,
+      "battles": 0,
+      "bot": "Corners 1.0.0",
+      "epoch": 1,
+      "name": "Corners",
+      "owner": "flemming-n-larsen",
+      "pairings": 0,
+      "platform": "JVM",
+      "version": "1.0.0"
+    },
+    {
+      "aps": 0.0,
+      "battles": 0,
+      "bot": "Crazy 1.0.0",
+      "epoch": 1,
+      "name": "Crazy",
+      "owner": "flemming-n-larsen",
+      "pairings": 0,
+      "platform": "JVM",
+      "version": "1.0.0"
+    },
+    {
+      "aps": 0.0,
+      "battles": 0,
+      "bot": "Fire 1.0.0",
+      "epoch": 1,
+      "name": "Fire",
+      "owner": "flemming-n-larsen",
+      "pairings": 0,
+      "platform": "JVM",
+      "version": "1.0.0"
+    },
+    {
+      "aps": 0.0,
+      "battles": 0,
+      "bot": "Orbit 1.0.0",
+      "epoch": 1,
+      "name": "Orbit",
+      "owner": "flemming-n-larsen",
+      "pairings": 0,
+      "platform": "Python",
+      "version": "1.0.0"
+    },
+    {
+      "aps": 0.0,
+      "battles": 0,
+      "bot": "RamFire 1.0.0",
+      "epoch": 1,
+      "name": "RamFire",
+      "owner": "flemming-n-larsen",
+      "pairings": 0,
+      "platform": "JVM",
+      "version": "1.0.0"
+    },
+    {
+      "aps": 0.0,
+      "battles": 0,
+      "bot": "Retcon 0.2.0",
+      "epoch": 1,
+      "name": "Retcon",
+      "owner": "flemming-n-larsen",
+      "pairings": 0,
+      "platform": "JVM",
+      "version": "0.2.0"
+    },
+    {
+      "aps": 0.0,
+      "battles": 0,
+      "bot": "RumbleOnboardingScout 1.0.0",
+      "epoch": 1,
+      "name": "RumbleOnboardingScout",
+      "owner": "robocode-rumble-test",
+      "pairings": 0,
+      "platform": "JVM",
+      "version": "1.0.0"
+    },
+    {
+      "aps": 0.0,
+      "battles": 0,
+      "bot": "RumbleTestScout 1.0.2",
+      "epoch": 1,
+      "name": "RumbleTestScout",
+      "owner": "robocode-rumble-test",
+      "pairings": 0,
+      "platform": "JVM",
+      "version": "1.0.2"
+    },
+    {
+      "aps": 0.0,
+      "battles": 0,
+      "bot": "SpinBot 1.0.0",
+      "epoch": 1,
+      "name": "SpinBot",
+      "owner": "flemming-n-larsen",
+      "pairings": 0,
+      "platform": "JVM",
+      "version": "1.0.0"
+    },
+    {
+      "aps": 0.0,
+      "battles": 0,
+      "bot": "Target 1.0.0",
+      "epoch": 1,
+      "name": "Target",
+      "owner": "flemming-n-larsen",
+      "pairings": 0,
+      "platform": "JVM",
+      "version": "1.0.0"
+    },
+    {
+      "aps": 0.0,
+      "battles": 0,
+      "bot": "TrackFire 1.0.0",
+      "epoch": 1,
+      "name": "TrackFire",
+      "owner": "flemming-n-larsen",
+      "pairings": 0,
+      "platform": "JVM",
+      "version": "1.0.0"
+    },
+    {
+      "aps": 0.0,
+      "battles": 0,
+      "bot": "Vector 1.0.0",
+      "epoch": 1,
+      "name": "Vector",
+      "owner": "flemming-n-larsen",
+      "pairings": 0,
+      "platform": "Python",
+      "version": "1.0.0"
+    },
+    {
+      "aps": 0.0,
+      "battles": 0,
+      "bot": "Walls 1.0.0",
+      "epoch": 1,
+      "name": "Walls",
+      "owner": "flemming-n-larsen",
+      "pairings": 0,
+      "platform": "JVM",
+      "version": "1.0.0"
+    }
+  ],
+  "gameType": "1v1",
+  "projectionId": "c7957e65df9c96f51b84a9d9315a501b18ac614b7379b73a181a9f549593d34c",
+  "schemaVersion": 1
+}

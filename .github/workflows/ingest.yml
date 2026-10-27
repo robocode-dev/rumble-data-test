@@ -1,0 +1,83 @@
+name: Ingest Rumble results
+
+on:
+  issues:
+    types: [opened, labeled]
+  schedule:
+    - cron: '17,47 * * * *'
+  workflow_dispatch:
+
+permissions:
+  actions: write
+  contents: write
+  issues: write
+
+concurrency:
+  group: rumble-publication-writer
+  cancel-in-progress: false
+
+jobs:
+  drain:
+    if: github.event_name != 'issues' || github.event.label.name == 'result-submission'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Snapshot completed UTC months before accepting results
+        run: python scripts/publication.py --root . --rollover-only
+      - name: Stage labelled issue inbox
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p .inbox
+          gh api --paginate "repos/$GITHUB_REPOSITORY/issues?labels=result-submission&state=open&per_page=100" --jq '.[] | select(.pull_request == null) | {number,user,body} | @base64' > .inbox/issues
+          while read -r encoded; do
+            [ -z "$encoded" ] && continue
+            printf '%s' "$encoded" | base64 --decode > .inbox/issue.json
+            number=$(jq -r .number .inbox/issue.json)
+            account=$(jq -r .user.login .inbox/issue.json)
+            jq -r .body .inbox/issue.json > .inbox/body.md
+            : > .inbox/outcome.txt
+            if python scripts/extract_envelope.py --body .inbox/body.md --output .inbox/envelope.json >> .inbox/outcome.txt 2>&1 && python scripts/ingest.py --root . --account "$account" --input .inbox/envelope.json >> .inbox/outcome.txt 2>&1; then
+              printf 'Processed result batch:\n\n```text\n' > ".inbox/comment-$number.md"
+              cat .inbox/outcome.txt >> ".inbox/comment-$number.md"
+              printf '\n```\n' >> ".inbox/comment-$number.md"
+            else
+              printf 'Rejected result batch before individual records could be read:\n\n```text\n' > ".inbox/comment-$number.md"
+              cat .inbox/outcome.txt >> ".inbox/comment-$number.md"
+              printf '\n```\n' >> ".inbox/comment-$number.md"
+            fi
+            printf '%s\n' "$number" >> .inbox/processed-issues
+          done < .inbox/issues
+      - name: Regenerate projections and commit accepted facts
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python scripts/publication.py --root .
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          site_changed=false
+          [ -n "$(git status --porcelain -- site)" ] && site_changed=true
+          for path in results leaderboard matchmaking clients.json site/data; do
+            [ -e "$path" ] && git add -- "$path"
+          done
+          if ! git diff --cached --quiet; then
+            git commit -m 'chore: ingest Rumble result batch'
+            git push
+            [ "$site_changed" = false ] || gh workflow run pages.yml --ref main
+          fi
+      - name: Publish durable receipts
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ -f .inbox/processed-issues ]; then
+            while read -r number; do
+              gh issue comment "$number" --repo "$GITHUB_REPOSITORY" --body-file ".inbox/comment-$number.md"
+              gh issue close "$number" --repo "$GITHUB_REPOSITORY"
+            done < .inbox/processed-issues
+          fi
+          rm -rf .inbox

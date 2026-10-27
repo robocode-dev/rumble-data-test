@@ -1,0 +1,32 @@
+{
+  "gameType": "twinduel",
+  "priorityPairs": [
+    {
+      "bots": [
+        "CornersCrazy 1.0.0",
+        "OrbitVector 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "CornersCrazy 1.0.0",
+        "RetconTwins 0.2.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "OrbitVector 1.0.0",
+        "RetconTwins 0.2.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    }
+  ],
+  "projectionId": "978e17512abe1a733488f30f2c159ab817066270ee4df398507592bd989dd4c2",
+  "schemaVersion": 1,
+  "targetSamplesPerPairing": 6
+}

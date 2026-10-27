@@ -1,0 +1,632 @@
+{
+  "gameType": "melee",
+  "priorityPairs": [
+    {
+      "bots": [
+        "Corners 1.0.0",
+        "Crazy 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Corners 1.0.0",
+        "Fire 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Corners 1.0.0",
+        "Orbit 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Corners 1.0.0",
+        "RamFire 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Corners 1.0.0",
+        "Retcon 0.2.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Corners 1.0.0",
+        "RumbleOnboardingScout 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Corners 1.0.0",
+        "RumbleTestScout 1.0.2"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Corners 1.0.0",
+        "SpinBot 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Corners 1.0.0",
+        "Target 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Corners 1.0.0",
+        "TrackFire 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Corners 1.0.0",
+        "Vector 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Corners 1.0.0",
+        "Walls 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Crazy 1.0.0",
+        "Fire 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Crazy 1.0.0",
+        "Orbit 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Crazy 1.0.0",
+        "RamFire 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Crazy 1.0.0",
+        "Retcon 0.2.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Crazy 1.0.0",
+        "RumbleOnboardingScout 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Crazy 1.0.0",
+        "RumbleTestScout 1.0.2"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Crazy 1.0.0",
+        "SpinBot 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Crazy 1.0.0",
+        "Target 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Crazy 1.0.0",
+        "TrackFire 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Crazy 1.0.0",
+        "Vector 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Crazy 1.0.0",
+        "Walls 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Fire 1.0.0",
+        "Orbit 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Fire 1.0.0",
+        "RamFire 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Fire 1.0.0",
+        "Retcon 0.2.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Fire 1.0.0",
+        "RumbleOnboardingScout 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Fire 1.0.0",
+        "RumbleTestScout 1.0.2"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Fire 1.0.0",
+        "SpinBot 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Fire 1.0.0",
+        "Target 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Fire 1.0.0",
+        "TrackFire 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Fire 1.0.0",
+        "Vector 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Fire 1.0.0",
+        "Walls 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Orbit 1.0.0",
+        "RamFire 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Orbit 1.0.0",
+        "Retcon 0.2.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Orbit 1.0.0",
+        "RumbleOnboardingScout 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Orbit 1.0.0",
+        "RumbleTestScout 1.0.2"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Orbit 1.0.0",
+        "SpinBot 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Orbit 1.0.0",
+        "Target 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Orbit 1.0.0",
+        "TrackFire 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Orbit 1.0.0",
+        "Vector 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Orbit 1.0.0",
+        "Walls 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "RamFire 1.0.0",
+        "Retcon 0.2.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "RamFire 1.0.0",
+        "RumbleOnboardingScout 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "RamFire 1.0.0",
+        "RumbleTestScout 1.0.2"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "RamFire 1.0.0",
+        "SpinBot 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "RamFire 1.0.0",
+        "Target 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "RamFire 1.0.0",
+        "TrackFire 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "RamFire 1.0.0",
+        "Vector 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "RamFire 1.0.0",
+        "Walls 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Retcon 0.2.0",
+        "RumbleOnboardingScout 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Retcon 0.2.0",
+        "RumbleTestScout 1.0.2"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Retcon 0.2.0",
+        "SpinBot 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Retcon 0.2.0",
+        "Target 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Retcon 0.2.0",
+        "TrackFire 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Retcon 0.2.0",
+        "Vector 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Retcon 0.2.0",
+        "Walls 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "RumbleOnboardingScout 1.0.0",
+        "RumbleTestScout 1.0.2"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "RumbleOnboardingScout 1.0.0",
+        "SpinBot 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "RumbleOnboardingScout 1.0.0",
+        "Target 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "RumbleOnboardingScout 1.0.0",
+        "TrackFire 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "RumbleOnboardingScout 1.0.0",
+        "Vector 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "RumbleOnboardingScout 1.0.0",
+        "Walls 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "RumbleTestScout 1.0.2",
+        "SpinBot 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "RumbleTestScout 1.0.2",
+        "Target 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "RumbleTestScout 1.0.2",
+        "TrackFire 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "RumbleTestScout 1.0.2",
+        "Vector 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "RumbleTestScout 1.0.2",
+        "Walls 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "SpinBot 1.0.0",
+        "Target 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "SpinBot 1.0.0",
+        "TrackFire 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "SpinBot 1.0.0",
+        "Vector 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "SpinBot 1.0.0",
+        "Walls 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Target 1.0.0",
+        "TrackFire 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Target 1.0.0",
+        "Vector 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Target 1.0.0",
+        "Walls 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "TrackFire 1.0.0",
+        "Vector 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "TrackFire 1.0.0",
+        "Walls 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Vector 1.0.0",
+        "Walls 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    }
+  ],
+  "projectionId": "eb3c0815074ced6e8bbcc1eec59325fb7150390bad106d3b03ca16ec2eedcb5f",
+  "schemaVersion": 1,
+  "targetSamplesPerPairing": 6
+}

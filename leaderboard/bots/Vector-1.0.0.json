@@ -1,0 +1,16 @@
+{
+  "entry": {
+    "aps": 0.0,
+    "battles": 0,
+    "bot": "Vector 1.0.0",
+    "epoch": 1,
+    "name": "Vector",
+    "owner": "flemming-n-larsen",
+    "pairings": 0,
+    "platform": "Python",
+    "version": "1.0.0"
+  },
+  "gameType": "melee",
+  "projectionId": "eb3c0815074ced6e8bbcc1eec59325fb7150390bad106d3b03ca16ec2eedcb5f",
+  "schemaVersion": 1
+}
