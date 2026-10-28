@@ -1,9 +1,4 @@
 {
-  "clients": [
-    {
-      "battles": 1,
-      "clientId": "robocode-rumble-test-1dcccf64"
-    }
-  ],
+  "clients": [],
   "schemaVersion": 1
 }
