@@ -198,6 +198,34 @@
       "version": "1.0.0"
     },
     {
+      "addedAt": "2026-10-28",
+      "authors": [
+        "Flemming N. Larsen"
+      ],
+      "name": "TestEcho",
+      "owner": "flemming-n-larsen",
+      "path": "bots/java/TestEcho",
+      "platform": "JVM",
+      "sourceHash": "sha256:70495af9af6c029df25cda2e35081d7eeb92f784d24b38e921b0e320952159d9",
+      "status": "active",
+      "teamMembers": [],
+      "version": "1.0.0"
+    },
+    {
+      "addedAt": "2026-10-28",
+      "authors": [
+        "Flemming N. Larsen"
+      ],
+      "name": "TestEchoTwo",
+      "owner": "flemming-n-larsen",
+      "path": "bots/java/TestEchoTwo",
+      "platform": "JVM",
+      "sourceHash": "sha256:29d4f156c3e722ecc6a286b637e95dccd14baadd5ea056e49283c5827c16040e",
+      "status": "active",
+      "teamMembers": [],
+      "version": "1.0.0"
+    },
+    {
       "addedAt": "2026-09-15",
       "authors": [
         "Mathew Nelson",
@@ -244,6 +272,6 @@
   ],
   "schemaVersion": 1,
   "source": "https://raw.githubusercontent.com/robocode-dev/rumble-bots-test/main/bots/index.json",
-  "sourceCommit": "05c4ecfd6c67ec33e10afa85aa0bc9b81df20416",
-  "sourceGeneratedAt": "2026-10-27T18:30:49Z"
+  "sourceCommit": "08a690171dceec09a59a99d9df89513525ba395a",
+  "sourceGeneratedAt": "2026-10-28T17:40:10Z"
 }

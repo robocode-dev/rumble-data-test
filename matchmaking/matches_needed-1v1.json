@@ -76,6 +76,22 @@
     {
       "bots": [
         "Corners 1.0.0",
+        "TestEcho 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Corners 1.0.0",
+        "TestEchoTwo 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Corners 1.0.0",
         "TrackFire 1.0.0"
       ],
       "have": 0,
@@ -164,6 +180,22 @@
     {
       "bots": [
         "Crazy 1.0.0",
+        "TestEcho 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Crazy 1.0.0",
+        "TestEchoTwo 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Crazy 1.0.0",
         "TrackFire 1.0.0"
       ],
       "have": 0,
@@ -244,6 +276,22 @@
     {
       "bots": [
         "Fire 1.0.0",
+        "TestEcho 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Fire 1.0.0",
+        "TestEchoTwo 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Fire 1.0.0",
         "TrackFire 1.0.0"
       ],
       "have": 0,
@@ -316,6 +364,22 @@
     {
       "bots": [
         "Orbit 1.0.0",
+        "TestEcho 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Orbit 1.0.0",
+        "TestEchoTwo 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Orbit 1.0.0",
         "TrackFire 1.0.0"
       ],
       "have": 0,
@@ -380,6 +444,22 @@
     {
       "bots": [
         "RamFire 1.0.0",
+        "TestEcho 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "RamFire 1.0.0",
+        "TestEchoTwo 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "RamFire 1.0.0",
         "TrackFire 1.0.0"
       ],
       "have": 0,
@@ -436,6 +516,22 @@
     {
       "bots": [
         "Retcon 0.2.0",
+        "TestEcho 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Retcon 0.2.0",
+        "TestEchoTwo 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Retcon 0.2.0",
         "TrackFire 1.0.0"
       ],
       "have": 0,
@@ -484,6 +580,22 @@
     {
       "bots": [
         "RumbleOnboardingScout 1.0.0",
+        "TestEcho 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "RumbleOnboardingScout 1.0.0",
+        "TestEchoTwo 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "RumbleOnboardingScout 1.0.0",
         "TrackFire 1.0.0"
       ],
       "have": 0,
@@ -524,6 +636,22 @@
     {
       "bots": [
         "RumbleTestScout 1.0.2",
+        "TestEcho 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "RumbleTestScout 1.0.2",
+        "TestEchoTwo 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "RumbleTestScout 1.0.2",
         "TrackFire 1.0.0"
       ],
       "have": 0,
@@ -556,6 +684,22 @@
     {
       "bots": [
         "SpinBot 1.0.0",
+        "TestEcho 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "SpinBot 1.0.0",
+        "TestEchoTwo 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "SpinBot 1.0.0",
         "TrackFire 1.0.0"
       ],
       "have": 0,
@@ -580,6 +724,22 @@
     {
       "bots": [
         "Target 1.0.0",
+        "TestEcho 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Target 1.0.0",
+        "TestEchoTwo 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "Target 1.0.0",
         "TrackFire 1.0.0"
       ],
       "have": 0,
@@ -596,6 +756,62 @@
     {
       "bots": [
         "Target 1.0.0",
+        "Walls 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "TestEcho 1.0.0",
+        "TestEchoTwo 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "TestEcho 1.0.0",
+        "TrackFire 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "TestEcho 1.0.0",
+        "Vector 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "TestEcho 1.0.0",
+        "Walls 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "TestEchoTwo 1.0.0",
+        "TrackFire 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "TestEchoTwo 1.0.0",
+        "Vector 1.0.0"
+      ],
+      "have": 0,
+      "reason": "new-bot"
+    },
+    {
+      "bots": [
+        "TestEchoTwo 1.0.0",
         "Walls 1.0.0"
       ],
       "have": 0,
@@ -626,7 +842,7 @@
       "reason": "new-bot"
     }
   ],
-  "projectionId": "44c2c7673cade41b34db1440de7d0230e842fe18c6eaca7d63915f20a7189308",
+  "projectionId": "cbcd6ebffff9925104bcd55e1dabd4ae943aa3e47bb20d68b2e93ad75ef7b17f",
   "schemaVersion": 1,
   "targetSamplesPerPairing": 6
 }
