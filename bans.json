@@ -1,5 +1,7 @@
 {
   "schemaVersion": 1,
-  "bannedAccounts": [],
+  "bannedAccounts": [
+    "robocode-rumble-test"
+  ],
   "disqualifiedBots": []
 }
