@@ -18,9 +18,15 @@ concurrency:
 
 jobs:
   drain:
-    if: github.event_name != 'issues' || github.event.label.name == 'result-submission'
+    if: github.event_name != 'issues' || github.event.label.name == 'result-submission' || (github.event.action == 'opened' && startsWith(github.event.issue.title, '[result]'))
     runs-on: ubuntu-latest
     steps:
+      - name: Label an opened submission the author could not label
+        if: github.event.action == 'opened'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          NUMBER: ${{ github.event.issue.number }}
+        run: gh issue edit "$NUMBER" --repo "$GITHUB_REPOSITORY" --add-label result-submission
       - uses: actions/checkout@v4
         with:
           ref: main

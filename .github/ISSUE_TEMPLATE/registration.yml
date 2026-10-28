@@ -1,0 +1,7 @@
+name: Registration
+description: Register your GitHub account as a Tank Royale Rumble participant.
+title: "[register] "
+body:
+  - type: markdown
+    attributes:
+      value: Submit this form to register the account that opens it. A workflow replies with your client ID. Registering again returns the same client ID.

@@ -1,0 +1,42 @@
+name: Register Rumble participants
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: rumble-publication-writer
+  cancel-in-progress: false
+
+jobs:
+  register:
+    if: startsWith(github.event.issue.title, '[register]')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Register the account that opened the issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ACCOUNT: ${{ github.event.issue.user.login }}
+          NUMBER: ${{ github.event.issue.number }}
+        run: |
+          if python scripts/register.py --root . --account "$ACCOUNT" > outcome.txt 2>&1; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git add -- clients
+            if ! git diff --cached --quiet; then
+              git commit -m "chore: register $ACCOUNT"
+              git push
+            fi
+          fi
+          gh issue comment "$NUMBER" --repo "$GITHUB_REPOSITORY" --body-file outcome.txt
+          gh issue close "$NUMBER" --repo "$GITHUB_REPOSITORY"
