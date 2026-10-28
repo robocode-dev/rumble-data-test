@@ -38,9 +38,15 @@ jobs:
       - name: Stage labelled issue inbox
         env:
           GH_TOKEN: ${{ github.token }}
+          EVENT_ISSUE: ${{ github.event.issue.number }}
         run: |
           mkdir -p .inbox
           gh api --paginate "repos/$GITHUB_REPOSITORY/issues?labels=result-submission&state=open&per_page=100" --jq '.[] | select(.pull_request == null) | {number,user,body} | @base64' > .inbox/issues
+          # The label list can lag right after the label is added, so always include the issue that triggered this run.
+          if [ -n "$EVENT_ISSUE" ]; then
+            gh api "repos/$GITHUB_REPOSITORY/issues/$EVENT_ISSUE" --jq 'select(.pull_request == null and .state == "open") | {number,user,body} | @base64' >> .inbox/issues
+            sort -u .inbox/issues -o .inbox/issues
+          fi
           while read -r encoded; do
             [ -z "$encoded" ] && continue
             printf '%s' "$encoded" | base64 --decode > .inbox/issue.json
