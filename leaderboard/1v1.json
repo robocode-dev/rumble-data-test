@@ -2,8 +2,8 @@
   "behaviorVersion": 2,
   "entries": [
     {
-      "aps": 78.0604,
-      "battles": 1,
+      "aps": 76.5652,
+      "battles": 2,
       "bot": "RamFire 1.0.0",
       "epoch": 2,
       "name": "RamFire",
@@ -24,8 +24,8 @@
       "version": "1.0.0"
     },
     {
-      "aps": 48.6096,
-      "battles": 3,
+      "aps": 49.108,
+      "battles": 4,
       "bot": "Corners 1.0.0",
       "epoch": 2,
       "name": "Corners",
@@ -146,6 +146,6 @@
     }
   ],
   "gameType": "1v1",
-  "projectionId": "a3deda9dce49b863982f7e8b183866901dc9d18f01f895fcb5360856c5431912",
+  "projectionId": "8e82cbd8a1ef735ae64c2f8b6cac9abe4c44a9dc8359183597b193d97b1466cd",
   "schemaVersion": 1
 }

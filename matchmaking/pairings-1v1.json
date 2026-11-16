@@ -16,13 +16,13 @@
       ]
     },
     {
-      "battles": 1,
+      "battles": 2,
       "bots": [
         "Corners 1.0.0",
         "RamFire 1.0.0"
       ]
     }
   ],
-  "projectionId": "a3deda9dce49b863982f7e8b183866901dc9d18f01f895fcb5360856c5431912",
+  "projectionId": "8e82cbd8a1ef735ae64c2f8b6cac9abe4c44a9dc8359183597b193d97b1466cd",
   "schemaVersion": 1
 }
