@@ -1,14 +1,6 @@
 {
   "gameType": "1v1",
-  "pairings": [
-    {
-      "battles": 1,
-      "bots": [
-        "Corners 1.0.0",
-        "Crazy 1.0.0"
-      ]
-    }
-  ],
-  "projectionId": "44c2c7673cade41b34db1440de7d0230e842fe18c6eaca7d63915f20a7189308",
+  "pairings": [],
+  "projectionId": "70cad8440b149c205bdd5f89212f7fd9298bd9fa780ca8ee01919c906f39ead4",
   "schemaVersion": 1
 }

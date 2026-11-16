@@ -1,11 +1,11 @@
 {
-  "behaviorVersion": 1,
+  "behaviorVersion": 2,
   "entries": [
     {
       "aps": 0.0,
       "battles": 0,
       "bot": "CornersCrazy 1.0.0",
-      "epoch": 1,
+      "epoch": 2,
       "name": "CornersCrazy",
       "owner": "flemming-n-larsen",
       "pairings": 0,
@@ -16,7 +16,7 @@
       "aps": 0.0,
       "battles": 0,
       "bot": "OrbitVector 1.0.0",
-      "epoch": 1,
+      "epoch": 2,
       "name": "OrbitVector",
       "owner": "flemming-n-larsen",
       "pairings": 0,
@@ -27,7 +27,7 @@
       "aps": 0.0,
       "battles": 0,
       "bot": "RetconTwins 0.2.0",
-      "epoch": 1,
+      "epoch": 2,
       "name": "RetconTwins",
       "owner": "flemming-n-larsen",
       "pairings": 0,
@@ -36,6 +36,6 @@
     }
   ],
   "gameType": "twinduel",
-  "projectionId": "978e17512abe1a733488f30f2c159ab817066270ee4df398507592bd989dd4c2",
+  "projectionId": "2d6798a029d7eb9a05026637966967e4d3778bf76e1f98cfb841c5cd4d5d2f7e",
   "schemaVersion": 1
 }
