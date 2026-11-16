@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "behaviorVersion": 1,
+  "behaviorVersion": 2,
   "tankRoyaleVersion": "unreleased",
   "image": "ghcr.io/robocode-dev/tank-royale:unreleased",
   "gameTypes": {
