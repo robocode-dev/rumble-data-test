@@ -9,7 +9,7 @@
       ]
     },
     {
-      "battles": 1,
+      "battles": 2,
       "bots": [
         "Corners 1.0.0",
         "Fire 1.0.0"
@@ -23,6 +23,6 @@
       ]
     }
   ],
-  "projectionId": "8e82cbd8a1ef735ae64c2f8b6cac9abe4c44a9dc8359183597b193d97b1466cd",
+  "projectionId": "78dab75add0a372a73db6bad2ebbfbff0725126209c2ffbd76393d42837ed5cd",
   "schemaVersion": 1
 }

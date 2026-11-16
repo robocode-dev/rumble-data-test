@@ -13,8 +13,8 @@
       "version": "1.0.0"
     },
     {
-      "aps": 56.1109,
-      "battles": 1,
+      "aps": 56.5717,
+      "battles": 2,
       "bot": "Fire 1.0.0",
       "epoch": 2,
       "name": "Fire",
@@ -24,8 +24,8 @@
       "version": "1.0.0"
     },
     {
-      "aps": 49.108,
-      "battles": 4,
+      "aps": 48.9544,
+      "battles": 5,
       "bot": "Corners 1.0.0",
       "epoch": 2,
       "name": "Corners",
@@ -146,6 +146,6 @@
     }
   ],
   "gameType": "1v1",
-  "projectionId": "8e82cbd8a1ef735ae64c2f8b6cac9abe4c44a9dc8359183597b193d97b1466cd",
+  "projectionId": "78dab75add0a372a73db6bad2ebbfbff0725126209c2ffbd76393d42837ed5cd",
   "schemaVersion": 1
 }
