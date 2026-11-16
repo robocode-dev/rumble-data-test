@@ -14,8 +14,8 @@
         "Corners 1.0.0",
         "Fire 1.0.0"
       ],
-      "have": 0,
-      "reason": "new-bot"
+      "have": 1,
+      "reason": "under-sampled"
     },
     {
       "bots": [
@@ -626,7 +626,7 @@
       "reason": "new-bot"
     }
   ],
-  "projectionId": "afffe81cdff9e40bebb8b39514f02312549f235894b5a81853d490500fabae33",
+  "projectionId": "2c624f28a2636276181b6544fc6defb5da38d8f10a071ca65e4d4ff5ab923907",
   "schemaVersion": 1,
   "targetSamplesPerPairing": 6
 }

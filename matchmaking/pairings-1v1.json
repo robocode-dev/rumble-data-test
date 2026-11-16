@@ -7,8 +7,15 @@
         "Corners 1.0.0",
         "Crazy 1.0.0"
       ]
+    },
+    {
+      "battles": 1,
+      "bots": [
+        "Corners 1.0.0",
+        "Fire 1.0.0"
+      ]
     }
   ],
-  "projectionId": "afffe81cdff9e40bebb8b39514f02312549f235894b5a81853d490500fabae33",
+  "projectionId": "2c624f28a2636276181b6544fc6defb5da38d8f10a071ca65e4d4ff5ab923907",
   "schemaVersion": 1
 }
