@@ -14,8 +14,15 @@
         "Corners 1.0.0",
         "Fire 1.0.0"
       ]
+    },
+    {
+      "battles": 1,
+      "bots": [
+        "Corners 1.0.0",
+        "RamFire 1.0.0"
+      ]
     }
   ],
-  "projectionId": "2c624f28a2636276181b6544fc6defb5da38d8f10a071ca65e4d4ff5ab923907",
+  "projectionId": "a3deda9dce49b863982f7e8b183866901dc9d18f01f895fcb5360856c5431912",
   "schemaVersion": 1
 }

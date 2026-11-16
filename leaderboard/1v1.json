@@ -2,13 +2,13 @@
   "behaviorVersion": 2,
   "entries": [
     {
-      "aps": 61.9446,
-      "battles": 2,
-      "bot": "Corners 1.0.0",
+      "aps": 78.0604,
+      "battles": 1,
+      "bot": "RamFire 1.0.0",
       "epoch": 2,
-      "name": "Corners",
+      "name": "RamFire",
       "owner": "flemming-n-larsen",
-      "pairings": 2,
+      "pairings": 1,
       "platform": "JVM",
       "version": "1.0.0"
     },
@@ -20,6 +20,17 @@
       "name": "Fire",
       "owner": "flemming-n-larsen",
       "pairings": 1,
+      "platform": "JVM",
+      "version": "1.0.0"
+    },
+    {
+      "aps": 48.6096,
+      "battles": 3,
+      "bot": "Corners 1.0.0",
+      "epoch": 2,
+      "name": "Corners",
+      "owner": "flemming-n-larsen",
+      "pairings": 3,
       "platform": "JVM",
       "version": "1.0.0"
     },
@@ -43,17 +54,6 @@
       "owner": "flemming-n-larsen",
       "pairings": 0,
       "platform": "Python",
-      "version": "1.0.0"
-    },
-    {
-      "aps": 0.0,
-      "battles": 0,
-      "bot": "RamFire 1.0.0",
-      "epoch": 2,
-      "name": "RamFire",
-      "owner": "flemming-n-larsen",
-      "pairings": 0,
-      "platform": "JVM",
       "version": "1.0.0"
     },
     {
@@ -146,6 +146,6 @@
     }
   ],
   "gameType": "1v1",
-  "projectionId": "2c624f28a2636276181b6544fc6defb5da38d8f10a071ca65e4d4ff5ab923907",
+  "projectionId": "a3deda9dce49b863982f7e8b183866901dc9d18f01f895fcb5360856c5431912",
   "schemaVersion": 1
 }
