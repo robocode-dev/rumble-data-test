@@ -2,6 +2,10 @@
   "clients": [
     {
       "battles": 1,
+      "clientId": "flemming-n-larsen-c4b67b7a"
+    },
+    {
+      "battles": 1,
       "clientId": "robocode-rumble-test-1dcccf64"
     }
   ],
