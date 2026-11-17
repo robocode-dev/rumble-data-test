@@ -2,6 +2,17 @@
   "behaviorVersion": 2,
   "entries": [
     {
+      "aps": 100.0,
+      "battles": 1,
+      "bot": "Retcon 0.2.0",
+      "epoch": 2,
+      "name": "Retcon",
+      "owner": "flemming-n-larsen",
+      "pairings": 1,
+      "platform": "JVM",
+      "version": "0.2.0"
+    },
+    {
       "aps": 78.2859,
       "battles": 3,
       "bot": "Fire 1.0.0",
@@ -47,25 +58,14 @@
     },
     {
       "aps": 0.0,
-      "battles": 1,
+      "battles": 2,
       "bot": "Orbit 1.0.0",
       "epoch": 2,
       "name": "Orbit",
       "owner": "flemming-n-larsen",
-      "pairings": 1,
+      "pairings": 2,
       "platform": "Python",
       "version": "1.0.0"
-    },
-    {
-      "aps": 0.0,
-      "battles": 0,
-      "bot": "Retcon 0.2.0",
-      "epoch": 2,
-      "name": "Retcon",
-      "owner": "flemming-n-larsen",
-      "pairings": 0,
-      "platform": "JVM",
-      "version": "0.2.0"
     },
     {
       "aps": 0.0,
@@ -146,6 +146,6 @@
     }
   ],
   "gameType": "1v1",
-  "projectionId": "f1379caa5c698845163a27cd03dcb162ab0e9035c9bbedd55cb1cb230840248a",
+  "projectionId": "32d8f10347210fb91bcee5c0661f4fa586e6e8bf2c2f3c6bac3b3bce8fd2950a",
   "schemaVersion": 1
 }

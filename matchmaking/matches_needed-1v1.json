@@ -278,8 +278,8 @@
         "Orbit 1.0.0",
         "Retcon 0.2.0"
       ],
-      "have": 0,
-      "reason": "new-bot"
+      "have": 1,
+      "reason": "under-sampled"
     },
     {
       "bots": [
@@ -626,7 +626,7 @@
       "reason": "new-bot"
     }
   ],
-  "projectionId": "f1379caa5c698845163a27cd03dcb162ab0e9035c9bbedd55cb1cb230840248a",
+  "projectionId": "32d8f10347210fb91bcee5c0661f4fa586e6e8bf2c2f3c6bac3b3bce8fd2950a",
   "schemaVersion": 1,
   "targetSamplesPerPairing": 6
 }
