@@ -25,6 +25,13 @@
     {
       "battles": 1,
       "bots": [
+        "Crazy 1.0.0",
+        "Vector 1.0.0"
+      ]
+    },
+    {
+      "battles": 1,
+      "bots": [
         "Fire 1.0.0",
         "Orbit 1.0.0"
       ]
@@ -37,6 +44,6 @@
       ]
     }
   ],
-  "projectionId": "32d8f10347210fb91bcee5c0661f4fa586e6e8bf2c2f3c6bac3b3bce8fd2950a",
+  "projectionId": "f5d67b45b7a2c120251ce271220a86ddc979ed37f542e8ebe37e70ef27ff406f",
   "schemaVersion": 1
 }

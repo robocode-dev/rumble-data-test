@@ -35,6 +35,17 @@
       "version": "1.0.0"
     },
     {
+      "aps": 50.3175,
+      "battles": 2,
+      "bot": "Crazy 1.0.0",
+      "epoch": 2,
+      "name": "Crazy",
+      "owner": "flemming-n-larsen",
+      "pairings": 2,
+      "platform": "JVM",
+      "version": "1.0.0"
+    },
+    {
       "aps": 48.9544,
       "battles": 5,
       "bot": "Corners 1.0.0",
@@ -46,14 +57,14 @@
       "version": "1.0.0"
     },
     {
-      "aps": 20.0,
+      "aps": 19.3651,
       "battles": 1,
-      "bot": "Crazy 1.0.0",
+      "bot": "Vector 1.0.0",
       "epoch": 2,
-      "name": "Crazy",
+      "name": "Vector",
       "owner": "flemming-n-larsen",
       "pairings": 1,
-      "platform": "JVM",
+      "platform": "Python",
       "version": "1.0.0"
     },
     {
@@ -125,17 +136,6 @@
     {
       "aps": 0.0,
       "battles": 0,
-      "bot": "Vector 1.0.0",
-      "epoch": 2,
-      "name": "Vector",
-      "owner": "flemming-n-larsen",
-      "pairings": 0,
-      "platform": "Python",
-      "version": "1.0.0"
-    },
-    {
-      "aps": 0.0,
-      "battles": 0,
       "bot": "Walls 1.0.0",
       "epoch": 2,
       "name": "Walls",
@@ -146,6 +146,6 @@
     }
   ],
   "gameType": "1v1",
-  "projectionId": "32d8f10347210fb91bcee5c0661f4fa586e6e8bf2c2f3c6bac3b3bce8fd2950a",
+  "projectionId": "f5d67b45b7a2c120251ce271220a86ddc979ed37f542e8ebe37e70ef27ff406f",
   "schemaVersion": 1
 }
