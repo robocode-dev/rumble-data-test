@@ -190,8 +190,8 @@
         "Fire 1.0.0",
         "Orbit 1.0.0"
       ],
-      "have": 0,
-      "reason": "new-bot"
+      "have": 1,
+      "reason": "under-sampled"
     },
     {
       "bots": [
@@ -626,7 +626,7 @@
       "reason": "new-bot"
     }
   ],
-  "projectionId": "78dab75add0a372a73db6bad2ebbfbff0725126209c2ffbd76393d42837ed5cd",
+  "projectionId": "f1379caa5c698845163a27cd03dcb162ab0e9035c9bbedd55cb1cb230840248a",
   "schemaVersion": 1,
   "targetSamplesPerPairing": 6
 }
