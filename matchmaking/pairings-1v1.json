@@ -37,6 +37,13 @@
       ]
     },
     {
+      "battles": 1,
+      "bots": [
+        "Fire 1.0.0",
+        "Vector 1.0.0"
+      ]
+    },
+    {
       "battles": 2,
       "bots": [
         "Orbit 1.0.0",
@@ -44,6 +51,6 @@
       ]
     }
   ],
-  "projectionId": "ed57e8f08d758ff9b0ae2eb8c6181a07a45ab3b30aac1fb93cd0b8552a701f7f",
+  "projectionId": "e79f9fafc39bcce28e21b6b727ab4aad430717c2a49ab4e1206b02281af5690e",
   "schemaVersion": 1
 }

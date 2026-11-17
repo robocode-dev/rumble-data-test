@@ -13,17 +13,6 @@
       "version": "0.2.0"
     },
     {
-      "aps": 78.2859,
-      "battles": 3,
-      "bot": "Fire 1.0.0",
-      "epoch": 2,
-      "name": "Fire",
-      "owner": "flemming-n-larsen",
-      "pairings": 2,
-      "platform": "JVM",
-      "version": "1.0.0"
-    },
-    {
       "aps": 76.5652,
       "battles": 2,
       "bot": "RamFire 1.0.0",
@@ -31,6 +20,17 @@
       "name": "RamFire",
       "owner": "flemming-n-larsen",
       "pairings": 1,
+      "platform": "JVM",
+      "version": "1.0.0"
+    },
+    {
+      "aps": 72.5544,
+      "battles": 4,
+      "bot": "Fire 1.0.0",
+      "epoch": 2,
+      "name": "Fire",
+      "owner": "flemming-n-larsen",
+      "pairings": 3,
       "platform": "JVM",
       "version": "1.0.0"
     },
@@ -57,13 +57,13 @@
       "version": "1.0.0"
     },
     {
-      "aps": 19.3651,
-      "battles": 1,
+      "aps": 29.1367,
+      "battles": 2,
       "bot": "Vector 1.0.0",
       "epoch": 2,
       "name": "Vector",
       "owner": "flemming-n-larsen",
-      "pairings": 1,
+      "pairings": 2,
       "platform": "Python",
       "version": "1.0.0"
     },
@@ -146,6 +146,6 @@
     }
   ],
   "gameType": "1v1",
-  "projectionId": "ed57e8f08d758ff9b0ae2eb8c6181a07a45ab3b30aac1fb93cd0b8552a701f7f",
+  "projectionId": "e79f9fafc39bcce28e21b6b727ab4aad430717c2a49ab4e1206b02281af5690e",
   "schemaVersion": 1
 }

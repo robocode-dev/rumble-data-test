@@ -1,0 +1,51 @@
+{
+  "arenaHeight": 600,
+  "arenaWidth": 800,
+  "battleId": "db7056b6-38ea-4364-acd0-2b95fd52941e",
+  "client": {
+    "id": "flemming-n-larsen-c4b67b7a",
+    "version": "1.4.0"
+  },
+  "completedAt": "2026-11-17T22:43:34.736268200Z",
+  "engine": {
+    "behaviorVersion": 2
+  },
+  "gameType": "1v1",
+  "participants": [
+    {
+      "bulletDamage": 557,
+      "bulletKillBonus": 24,
+      "firstPlaces": 28,
+      "isTeam": false,
+      "lastSurvivorBonus": 280,
+      "name": "Fire",
+      "ramDamage": 0,
+      "ramKillBonus": 0,
+      "rank": 1,
+      "secondPlaces": 7,
+      "survival": 1400,
+      "thirdPlaces": 0,
+      "totalScore": 2261,
+      "version": "1.0.0"
+    },
+    {
+      "bulletDamage": 625,
+      "bulletKillBonus": 94,
+      "firstPlaces": 7,
+      "isTeam": false,
+      "lastSurvivorBonus": 70,
+      "name": "Vector",
+      "ramDamage": 301,
+      "ramKillBonus": 0,
+      "rank": 2,
+      "secondPlaces": 28,
+      "survival": 350,
+      "thirdPlaces": 0,
+      "totalScore": 1440,
+      "version": "1.0.0"
+    }
+  ],
+  "payloadHash": "ceb2893e6831109586faca09bde21edf2b17874b8151f3f10f25dc0711e16ede",
+  "rounds": 35,
+  "submittedBy": "flemming-n-larsen"
+}
