@@ -3,7 +3,7 @@
   "entries": [
     {
       "aps": 100.0,
-      "battles": 1,
+      "battles": 2,
       "bot": "Retcon 0.2.0",
       "epoch": 2,
       "name": "Retcon",
@@ -69,7 +69,7 @@
     },
     {
       "aps": 0.0,
-      "battles": 2,
+      "battles": 3,
       "bot": "Orbit 1.0.0",
       "epoch": 2,
       "name": "Orbit",
@@ -146,6 +146,6 @@
     }
   ],
   "gameType": "1v1",
-  "projectionId": "f5d67b45b7a2c120251ce271220a86ddc979ed37f542e8ebe37e70ef27ff406f",
+  "projectionId": "ed57e8f08d758ff9b0ae2eb8c6181a07a45ab3b30aac1fb93cd0b8552a701f7f",
   "schemaVersion": 1
 }
