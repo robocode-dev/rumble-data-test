@@ -1,6 +1,22 @@
 {
   "gameType": "melee",
-  "pairings": [],
-  "projectionId": "b7740f5d9a9deb6b87a6f7ebea97a6fead8d4c1749daad9a07105755b5281d02",
+  "pairings": [
+    {
+      "battles": 1,
+      "bots": [
+        "Corners 1.0.0",
+        "Crazy 1.0.0",
+        "Orbit 1.0.0",
+        "Retcon 0.2.0",
+        "RumbleOnboardingScout 1.0.0",
+        "RumbleTestScout 1.0.2",
+        "SpinBot 1.0.0",
+        "Target 1.0.0",
+        "TrackFire 1.0.0",
+        "Walls 1.0.0"
+      ]
+    }
+  ],
+  "projectionId": "71b0829b7308691faa5c24537be688e5b636c7db67d366a51b3c24c51aeb8535",
   "schemaVersion": 1
 }

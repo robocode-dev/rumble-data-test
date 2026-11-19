@@ -1,0 +1,51 @@
+{
+  "arenaHeight": 600,
+  "arenaWidth": 800,
+  "battleId": "9d533e39-dca7-4def-8c87-5037d64baab4",
+  "client": {
+    "id": "flemming-n-larsen-c4b67b7a",
+    "version": "1.4.0"
+  },
+  "completedAt": "2026-11-18T21:59:40.486900Z",
+  "engine": {
+    "behaviorVersion": 2
+  },
+  "gameType": "1v1",
+  "participants": [
+    {
+      "bulletDamage": 3377,
+      "bulletKillBonus": 174,
+      "firstPlaces": 34,
+      "isTeam": false,
+      "lastSurvivorBonus": 340,
+      "name": "RamFire",
+      "ramDamage": 1826,
+      "ramKillBonus": 990,
+      "rank": 1,
+      "secondPlaces": 1,
+      "survival": 1700,
+      "thirdPlaces": 0,
+      "totalScore": 8407,
+      "version": "1.0.0"
+    },
+    {
+      "bulletDamage": 2592,
+      "bulletKillBonus": 20,
+      "firstPlaces": 1,
+      "isTeam": false,
+      "lastSurvivorBonus": 10,
+      "name": "Corners",
+      "ramDamage": 2,
+      "ramKillBonus": 0,
+      "rank": 2,
+      "secondPlaces": 34,
+      "survival": 50,
+      "thirdPlaces": 0,
+      "totalScore": 2675,
+      "version": "1.0.0"
+    }
+  ],
+  "payloadHash": "96728a7df3a163b698471ce03471771b8ad54875f8048188f10018cb46fbd0ca",
+  "rounds": 35,
+  "submittedBy": "flemming-n-larsen"
+}

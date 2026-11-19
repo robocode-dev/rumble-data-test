@@ -9,17 +9,31 @@
       ]
     },
     {
-      "battles": 2,
+      "battles": 3,
       "bots": [
         "Corners 1.0.0",
         "Fire 1.0.0"
       ]
     },
     {
-      "battles": 2,
+      "battles": 1,
+      "bots": [
+        "Corners 1.0.0",
+        "Orbit 1.0.0"
+      ]
+    },
+    {
+      "battles": 3,
       "bots": [
         "Corners 1.0.0",
         "RamFire 1.0.0"
+      ]
+    },
+    {
+      "battles": 1,
+      "bots": [
+        "Corners 1.0.0",
+        "Retcon 0.2.0"
       ]
     },
     {
@@ -51,6 +65,6 @@
       ]
     }
   ],
-  "projectionId": "e79f9fafc39bcce28e21b6b727ab4aad430717c2a49ab4e1206b02281af5690e",
+  "projectionId": "bddc42465432552ff1acda2eec5818a60bd7c6f7411c6a79a2c7df619ff02eb7",
   "schemaVersion": 1
 }

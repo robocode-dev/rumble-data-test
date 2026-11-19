@@ -1,0 +1,51 @@
+{
+  "arenaHeight": 600,
+  "arenaWidth": 800,
+  "battleId": "67ccd0af-54db-47a2-8122-123c97b37f90",
+  "client": {
+    "id": "flemming-n-larsen-c4b67b7a",
+    "version": "1.4.0"
+  },
+  "completedAt": "2026-11-19T15:11:10.749653700Z",
+  "engine": {
+    "behaviorVersion": 2
+  },
+  "gameType": "1v1",
+  "participants": [
+    {
+      "bulletDamage": 3312,
+      "bulletKillBonus": 660,
+      "firstPlaces": 35,
+      "isTeam": false,
+      "lastSurvivorBonus": 340,
+      "name": "Corners",
+      "ramDamage": 0,
+      "ramKillBonus": 0,
+      "rank": 1,
+      "secondPlaces": 0,
+      "survival": 1700,
+      "thirdPlaces": 0,
+      "totalScore": 6012,
+      "version": "1.0.0"
+    },
+    {
+      "bulletDamage": 0,
+      "bulletKillBonus": 0,
+      "firstPlaces": 0,
+      "isTeam": false,
+      "lastSurvivorBonus": 0,
+      "name": "Orbit",
+      "ramDamage": 0,
+      "ramKillBonus": 0,
+      "rank": 2,
+      "secondPlaces": 35,
+      "survival": 0,
+      "thirdPlaces": 0,
+      "totalScore": 0,
+      "version": "1.0.0"
+    }
+  ],
+  "payloadHash": "7a86e5b31297f331f51644df85dd7314097cb5a60f57116dd348e70c104eefbc",
+  "rounds": 35,
+  "submittedBy": "flemming-n-larsen"
+}

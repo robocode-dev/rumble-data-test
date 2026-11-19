@@ -1,16 +1,16 @@
 {
   "entry": {
-    "aps": 0.0,
-    "battles": 0,
+    "aps": 15.9428,
+    "battles": 1,
     "bot": "SpinBot 1.0.0",
     "epoch": 2,
     "name": "SpinBot",
     "owner": "flemming-n-larsen",
-    "pairings": 0,
+    "pairings": 1,
     "platform": "JVM",
     "version": "1.0.0"
   },
   "gameType": "melee",
-  "projectionId": "b7740f5d9a9deb6b87a6f7ebea97a6fead8d4c1749daad9a07105755b5281d02",
+  "projectionId": "71b0829b7308691faa5c24537be688e5b636c7db67d366a51b3c24c51aeb8535",
   "schemaVersion": 1
 }

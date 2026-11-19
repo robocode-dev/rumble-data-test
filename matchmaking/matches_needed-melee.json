@@ -6,8 +6,8 @@
         "Corners 1.0.0",
         "Crazy 1.0.0"
       ],
-      "have": 0,
-      "reason": "new-bot"
+      "have": 1,
+      "reason": "under-sampled"
     },
     {
       "bots": [
@@ -22,8 +22,8 @@
         "Corners 1.0.0",
         "Orbit 1.0.0"
       ],
-      "have": 0,
-      "reason": "new-bot"
+      "have": 1,
+      "reason": "under-sampled"
     },
     {
       "bots": [
@@ -38,48 +38,48 @@
         "Corners 1.0.0",
         "Retcon 0.2.0"
       ],
-      "have": 0,
-      "reason": "new-bot"
+      "have": 1,
+      "reason": "under-sampled"
     },
     {
       "bots": [
         "Corners 1.0.0",
         "RumbleOnboardingScout 1.0.0"
       ],
-      "have": 0,
-      "reason": "new-bot"
+      "have": 1,
+      "reason": "under-sampled"
     },
     {
       "bots": [
         "Corners 1.0.0",
         "RumbleTestScout 1.0.2"
       ],
-      "have": 0,
-      "reason": "new-bot"
+      "have": 1,
+      "reason": "under-sampled"
     },
     {
       "bots": [
         "Corners 1.0.0",
         "SpinBot 1.0.0"
       ],
-      "have": 0,
-      "reason": "new-bot"
+      "have": 1,
+      "reason": "under-sampled"
     },
     {
       "bots": [
         "Corners 1.0.0",
         "Target 1.0.0"
       ],
-      "have": 0,
-      "reason": "new-bot"
+      "have": 1,
+      "reason": "under-sampled"
     },
     {
       "bots": [
         "Corners 1.0.0",
         "TrackFire 1.0.0"
       ],
-      "have": 0,
-      "reason": "new-bot"
+      "have": 1,
+      "reason": "under-sampled"
     },
     {
       "bots": [
@@ -94,8 +94,8 @@
         "Corners 1.0.0",
         "Walls 1.0.0"
       ],
-      "have": 0,
-      "reason": "new-bot"
+      "have": 1,
+      "reason": "under-sampled"
     },
     {
       "bots": [
@@ -110,8 +110,8 @@
         "Crazy 1.0.0",
         "Orbit 1.0.0"
       ],
-      "have": 0,
-      "reason": "new-bot"
+      "have": 1,
+      "reason": "under-sampled"
     },
     {
       "bots": [
@@ -126,48 +126,48 @@
         "Crazy 1.0.0",
         "Retcon 0.2.0"
       ],
-      "have": 0,
-      "reason": "new-bot"
+      "have": 1,
+      "reason": "under-sampled"
     },
     {
       "bots": [
         "Crazy 1.0.0",
         "RumbleOnboardingScout 1.0.0"
       ],
-      "have": 0,
-      "reason": "new-bot"
+      "have": 1,
+      "reason": "under-sampled"
     },
     {
       "bots": [
         "Crazy 1.0.0",
         "RumbleTestScout 1.0.2"
       ],
-      "have": 0,
-      "reason": "new-bot"
+      "have": 1,
+      "reason": "under-sampled"
     },
     {
       "bots": [
         "Crazy 1.0.0",
         "SpinBot 1.0.0"
       ],
-      "have": 0,
-      "reason": "new-bot"
+      "have": 1,
+      "reason": "under-sampled"
     },
     {
       "bots": [
         "Crazy 1.0.0",
         "Target 1.0.0"
       ],
-      "have": 0,
-      "reason": "new-bot"
+      "have": 1,
+      "reason": "under-sampled"
     },
     {
       "bots": [
         "Crazy 1.0.0",
         "TrackFire 1.0.0"
       ],
-      "have": 0,
-      "reason": "new-bot"
+      "have": 1,
+      "reason": "under-sampled"
     },
     {
       "bots": [
@@ -182,8 +182,8 @@
         "Crazy 1.0.0",
         "Walls 1.0.0"
       ],
-      "have": 0,
-      "reason": "new-bot"
+      "have": 1,
+      "reason": "under-sampled"
     },
     {
       "bots": [
@@ -278,48 +278,48 @@
         "Orbit 1.0.0",
         "Retcon 0.2.0"
       ],
-      "have": 0,
-      "reason": "new-bot"
+      "have": 1,
+      "reason": "under-sampled"
     },
     {
       "bots": [
         "Orbit 1.0.0",
         "RumbleOnboardingScout 1.0.0"
       ],
-      "have": 0,
-      "reason": "new-bot"
+      "have": 1,
+      "reason": "under-sampled"
     },
     {
       "bots": [
         "Orbit 1.0.0",
         "RumbleTestScout 1.0.2"
       ],
-      "have": 0,
-      "reason": "new-bot"
+      "have": 1,
+      "reason": "under-sampled"
     },
     {
       "bots": [
         "Orbit 1.0.0",
         "SpinBot 1.0.0"
       ],
-      "have": 0,
-      "reason": "new-bot"
+      "have": 1,
+      "reason": "under-sampled"
     },
     {
       "bots": [
         "Orbit 1.0.0",
         "Target 1.0.0"
       ],
-      "have": 0,
-      "reason": "new-bot"
+      "have": 1,
+      "reason": "under-sampled"
     },
     {
       "bots": [
         "Orbit 1.0.0",
         "TrackFire 1.0.0"
       ],
-      "have": 0,
-      "reason": "new-bot"
+      "have": 1,
+      "reason": "under-sampled"
     },
     {
       "bots": [
@@ -334,8 +334,8 @@
         "Orbit 1.0.0",
         "Walls 1.0.0"
       ],
-      "have": 0,
-      "reason": "new-bot"
+      "have": 1,
+      "reason": "under-sampled"
     },
     {
       "bots": [
@@ -406,40 +406,40 @@
         "Retcon 0.2.0",
         "RumbleOnboardingScout 1.0.0"
       ],
-      "have": 0,
-      "reason": "new-bot"
+      "have": 1,
+      "reason": "under-sampled"
     },
     {
       "bots": [
         "Retcon 0.2.0",
         "RumbleTestScout 1.0.2"
       ],
-      "have": 0,
-      "reason": "new-bot"
+      "have": 1,
+      "reason": "under-sampled"
     },
     {
       "bots": [
         "Retcon 0.2.0",
         "SpinBot 1.0.0"
       ],
-      "have": 0,
-      "reason": "new-bot"
+      "have": 1,
+      "reason": "under-sampled"
     },
     {
       "bots": [
         "Retcon 0.2.0",
         "Target 1.0.0"
       ],
-      "have": 0,
-      "reason": "new-bot"
+      "have": 1,
+      "reason": "under-sampled"
     },
     {
       "bots": [
         "Retcon 0.2.0",
         "TrackFire 1.0.0"
       ],
-      "have": 0,
-      "reason": "new-bot"
+      "have": 1,
+      "reason": "under-sampled"
     },
     {
       "bots": [
@@ -454,40 +454,40 @@
         "Retcon 0.2.0",
         "Walls 1.0.0"
       ],
-      "have": 0,
-      "reason": "new-bot"
+      "have": 1,
+      "reason": "under-sampled"
     },
     {
       "bots": [
         "RumbleOnboardingScout 1.0.0",
         "RumbleTestScout 1.0.2"
       ],
-      "have": 0,
-      "reason": "new-bot"
+      "have": 1,
+      "reason": "under-sampled"
     },
     {
       "bots": [
         "RumbleOnboardingScout 1.0.0",
         "SpinBot 1.0.0"
       ],
-      "have": 0,
-      "reason": "new-bot"
+      "have": 1,
+      "reason": "under-sampled"
     },
     {
       "bots": [
         "RumbleOnboardingScout 1.0.0",
         "Target 1.0.0"
       ],
-      "have": 0,
-      "reason": "new-bot"
+      "have": 1,
+      "reason": "under-sampled"
     },
     {
       "bots": [
         "RumbleOnboardingScout 1.0.0",
         "TrackFire 1.0.0"
       ],
-      "have": 0,
-      "reason": "new-bot"
+      "have": 1,
+      "reason": "under-sampled"
     },
     {
       "bots": [
@@ -502,32 +502,32 @@
         "RumbleOnboardingScout 1.0.0",
         "Walls 1.0.0"
       ],
-      "have": 0,
-      "reason": "new-bot"
+      "have": 1,
+      "reason": "under-sampled"
     },
     {
       "bots": [
         "RumbleTestScout 1.0.2",
         "SpinBot 1.0.0"
       ],
-      "have": 0,
-      "reason": "new-bot"
+      "have": 1,
+      "reason": "under-sampled"
     },
     {
       "bots": [
         "RumbleTestScout 1.0.2",
         "Target 1.0.0"
       ],
-      "have": 0,
-      "reason": "new-bot"
+      "have": 1,
+      "reason": "under-sampled"
     },
     {
       "bots": [
         "RumbleTestScout 1.0.2",
         "TrackFire 1.0.0"
       ],
-      "have": 0,
-      "reason": "new-bot"
+      "have": 1,
+      "reason": "under-sampled"
     },
     {
       "bots": [
@@ -542,24 +542,24 @@
         "RumbleTestScout 1.0.2",
         "Walls 1.0.0"
       ],
-      "have": 0,
-      "reason": "new-bot"
+      "have": 1,
+      "reason": "under-sampled"
     },
     {
       "bots": [
         "SpinBot 1.0.0",
         "Target 1.0.0"
       ],
-      "have": 0,
-      "reason": "new-bot"
+      "have": 1,
+      "reason": "under-sampled"
     },
     {
       "bots": [
         "SpinBot 1.0.0",
         "TrackFire 1.0.0"
       ],
-      "have": 0,
-      "reason": "new-bot"
+      "have": 1,
+      "reason": "under-sampled"
     },
     {
       "bots": [
@@ -574,16 +574,16 @@
         "SpinBot 1.0.0",
         "Walls 1.0.0"
       ],
-      "have": 0,
-      "reason": "new-bot"
+      "have": 1,
+      "reason": "under-sampled"
     },
     {
       "bots": [
         "Target 1.0.0",
         "TrackFire 1.0.0"
       ],
-      "have": 0,
-      "reason": "new-bot"
+      "have": 1,
+      "reason": "under-sampled"
     },
     {
       "bots": [
@@ -598,8 +598,8 @@
         "Target 1.0.0",
         "Walls 1.0.0"
       ],
-      "have": 0,
-      "reason": "new-bot"
+      "have": 1,
+      "reason": "under-sampled"
     },
     {
       "bots": [
@@ -614,8 +614,8 @@
         "TrackFire 1.0.0",
         "Walls 1.0.0"
       ],
-      "have": 0,
-      "reason": "new-bot"
+      "have": 1,
+      "reason": "under-sampled"
     },
     {
       "bots": [
@@ -626,7 +626,7 @@
       "reason": "new-bot"
     }
   ],
-  "projectionId": "b7740f5d9a9deb6b87a6f7ebea97a6fead8d4c1749daad9a07105755b5281d02",
+  "projectionId": "71b0829b7308691faa5c24537be688e5b636c7db67d366a51b3c24c51aeb8535",
   "schemaVersion": 1,
   "targetSamplesPerPairing": 6
 }
