@@ -2,8 +2,8 @@
   "behaviorVersion": 2,
   "entries": [
     {
-      "aps": 98.1804,
-      "battles": 4,
+      "aps": 97.9597,
+      "battles": 5,
       "bot": "Retcon 0.2.0",
       "epoch": 2,
       "name": "Retcon",
@@ -24,13 +24,24 @@
       "version": "1.0.0"
     },
     {
-      "aps": 72.4745,
-      "battles": 5,
+      "aps": 72.4823,
+      "battles": 6,
       "bot": "Fire 1.0.0",
       "epoch": 2,
       "name": "Fire",
       "owner": "flemming-n-larsen",
       "pairings": 3,
+      "platform": "JVM",
+      "version": "1.0.0"
+    },
+    {
+      "aps": 50.3441,
+      "battles": 14,
+      "bot": "Corners 1.0.0",
+      "epoch": 2,
+      "name": "Corners",
+      "owner": "flemming-n-larsen",
+      "pairings": 5,
       "platform": "JVM",
       "version": "1.0.0"
     },
@@ -42,17 +53,6 @@
       "name": "Crazy",
       "owner": "flemming-n-larsen",
       "pairings": 2,
-      "platform": "JVM",
-      "version": "1.0.0"
-    },
-    {
-      "aps": 50.2605,
-      "battles": 12,
-      "bot": "Corners 1.0.0",
-      "epoch": 2,
-      "name": "Corners",
-      "owner": "flemming-n-larsen",
-      "pairings": 5,
       "platform": "JVM",
       "version": "1.0.0"
     },
@@ -146,6 +146,6 @@
     }
   ],
   "gameType": "1v1",
-  "projectionId": "aaacda288f5fcc13a5e731f1dd0d6c317a59cda9b56917781409ed5e7cbff678",
+  "projectionId": "7f9226acb1ea8f1cff7758025639a014bd181e0776738cdaca45f153e2421adb",
   "schemaVersion": 1
 }

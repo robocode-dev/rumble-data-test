@@ -14,7 +14,7 @@
         "Corners 1.0.0",
         "Fire 1.0.0"
       ],
-      "have": 3,
+      "have": 4,
       "reason": "under-sampled"
     },
     {
@@ -38,7 +38,7 @@
         "Corners 1.0.0",
         "Retcon 0.2.0"
       ],
-      "have": 2,
+      "have": 3,
       "reason": "under-sampled"
     },
     {
@@ -626,7 +626,7 @@
       "reason": "new-bot"
     }
   ],
-  "projectionId": "aaacda288f5fcc13a5e731f1dd0d6c317a59cda9b56917781409ed5e7cbff678",
+  "projectionId": "7f9226acb1ea8f1cff7758025639a014bd181e0776738cdaca45f153e2421adb",
   "schemaVersion": 1,
   "targetSamplesPerPairing": 6
 }
