@@ -2,8 +2,8 @@
   "behaviorVersion": 2,
   "entries": [
     {
-      "aps": 98.6823,
-      "battles": 3,
+      "aps": 98.1804,
+      "battles": 4,
       "bot": "Retcon 0.2.0",
       "epoch": 2,
       "name": "Retcon",
@@ -13,8 +13,8 @@
       "version": "0.2.0"
     },
     {
-      "aps": 76.3307,
-      "battles": 3,
+      "aps": 76.0048,
+      "battles": 5,
       "bot": "RamFire 1.0.0",
       "epoch": 2,
       "name": "RamFire",
@@ -46,8 +46,8 @@
       "version": "1.0.0"
     },
     {
-      "aps": 49.9946,
-      "battles": 9,
+      "aps": 50.2605,
+      "battles": 12,
       "bot": "Corners 1.0.0",
       "epoch": 2,
       "name": "Corners",
@@ -146,6 +146,6 @@
     }
   ],
   "gameType": "1v1",
-  "projectionId": "bddc42465432552ff1acda2eec5818a60bd7c6f7411c6a79a2c7df619ff02eb7",
+  "projectionId": "aaacda288f5fcc13a5e731f1dd0d6c317a59cda9b56917781409ed5e7cbff678",
   "schemaVersion": 1
 }

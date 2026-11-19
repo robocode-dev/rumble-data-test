@@ -30,7 +30,7 @@
         "Corners 1.0.0",
         "RamFire 1.0.0"
       ],
-      "have": 3,
+      "have": 5,
       "reason": "under-sampled"
     },
     {
@@ -38,7 +38,7 @@
         "Corners 1.0.0",
         "Retcon 0.2.0"
       ],
-      "have": 1,
+      "have": 2,
       "reason": "under-sampled"
     },
     {
@@ -626,7 +626,7 @@
       "reason": "new-bot"
     }
   ],
-  "projectionId": "bddc42465432552ff1acda2eec5818a60bd7c6f7411c6a79a2c7df619ff02eb7",
+  "projectionId": "aaacda288f5fcc13a5e731f1dd0d6c317a59cda9b56917781409ed5e7cbff678",
   "schemaVersion": 1,
   "targetSamplesPerPairing": 6
 }
