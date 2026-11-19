@@ -28,14 +28,6 @@
     {
       "bots": [
         "Corners 1.0.0",
-        "RamFire 1.0.0"
-      ],
-      "have": 5,
-      "reason": "under-sampled"
-    },
-    {
-      "bots": [
-        "Corners 1.0.0",
         "Retcon 0.2.0"
       ],
       "have": 3,
@@ -626,7 +618,7 @@
       "reason": "new-bot"
     }
   ],
-  "projectionId": "7f9226acb1ea8f1cff7758025639a014bd181e0776738cdaca45f153e2421adb",
+  "projectionId": "b3bb2c86827683c838b242ef03d27e92356bbd1e7aedb653292e2d4d9ca12d14",
   "schemaVersion": 1,
   "targetSamplesPerPairing": 6
 }
