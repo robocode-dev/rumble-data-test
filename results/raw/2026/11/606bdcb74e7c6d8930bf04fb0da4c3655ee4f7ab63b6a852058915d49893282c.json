@@ -1,0 +1,51 @@
+{
+  "arenaHeight": 800,
+  "arenaWidth": 800,
+  "battleId": "8177d37d-2321-402b-8e4c-c0e2ed725919",
+  "client": {
+    "id": "flemming-n-larsen-c4b67b7a",
+    "version": "1.4.0"
+  },
+  "completedAt": "2026-11-20T22:27:09.094613700Z",
+  "engine": {
+    "behaviorVersion": 2
+  },
+  "gameType": "twinduel",
+  "participants": [
+    {
+      "bulletDamage": 12411,
+      "bulletKillBonus": 960,
+      "firstPlaces": 71,
+      "isTeam": true,
+      "lastSurvivorBonus": 2620,
+      "name": "CornersCrazy",
+      "ramDamage": 253,
+      "ramKillBonus": 13,
+      "rank": 1,
+      "secondPlaces": 71,
+      "survival": 13950,
+      "thirdPlaces": 7,
+      "totalScore": 30208,
+      "version": "1.0.0"
+    },
+    {
+      "bulletDamage": 1672,
+      "bulletKillBonus": 78,
+      "firstPlaces": 4,
+      "isTeam": true,
+      "lastSurvivorBonus": 40,
+      "name": "OrbitVector",
+      "ramDamage": 614,
+      "ramKillBonus": 0,
+      "rank": 2,
+      "secondPlaces": 4,
+      "survival": 1050,
+      "thirdPlaces": 71,
+      "totalScore": 3455,
+      "version": "1.0.0"
+    }
+  ],
+  "payloadHash": "84ec0702f210bad40dc5aab0bf8b64abe95b6f76a8ff6e739ecf0cbccecfd022",
+  "rounds": 75,
+  "submittedBy": "flemming-n-larsen"
+}
