@@ -2,8 +2,8 @@
   "behaviorVersion": 2,
   "entries": [
     {
-      "aps": 90.2361,
-      "battles": 8,
+      "aps": 90.2468,
+      "battles": 11,
       "bot": "CornersCrazy 1.0.0",
       "epoch": 2,
       "name": "CornersCrazy",
@@ -13,8 +13,8 @@
       "version": "1.0.0"
     },
     {
-      "aps": 9.7639,
-      "battles": 8,
+      "aps": 9.7532,
+      "battles": 11,
       "bot": "OrbitVector 1.0.0",
       "epoch": 2,
       "name": "OrbitVector",
@@ -36,6 +36,6 @@
     }
   ],
   "gameType": "twinduel",
-  "projectionId": "3cc2868b5e8e6c7448436f32e96f638ddef45e293788788004d0833fea4f1939",
+  "projectionId": "4307fac33d6e94e5e4e98cbeac0d965db6b294fd37f44b28204598ad7a9e1d81",
   "schemaVersion": 1
 }
