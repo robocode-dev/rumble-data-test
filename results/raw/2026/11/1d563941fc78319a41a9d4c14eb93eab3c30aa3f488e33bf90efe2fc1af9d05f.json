@@ -1,0 +1,51 @@
+{
+  "arenaHeight": 600,
+  "arenaWidth": 800,
+  "battleId": "af4a2a35-0c2c-4638-8ed9-b06c29f98252",
+  "client": {
+    "id": "flemming-n-larsen-c4b67b7a",
+    "version": "1.4.0"
+  },
+  "completedAt": "2026-11-22T15:28:43.968876400Z",
+  "engine": {
+    "behaviorVersion": 2
+  },
+  "gameType": "1v1",
+  "participants": [
+    {
+      "bulletDamage": 2195,
+      "bulletKillBonus": 401,
+      "firstPlaces": 32,
+      "isTeam": false,
+      "lastSurvivorBonus": 320,
+      "name": "Crazy",
+      "ramDamage": 16,
+      "ramKillBonus": 0,
+      "rank": 1,
+      "secondPlaces": 3,
+      "survival": 1600,
+      "thirdPlaces": 0,
+      "totalScore": 4532,
+      "version": "1.0.0"
+    },
+    {
+      "bulletDamage": 1021,
+      "bulletKillBonus": 14,
+      "firstPlaces": 3,
+      "isTeam": false,
+      "lastSurvivorBonus": 30,
+      "name": "Corners",
+      "ramDamage": 4,
+      "ramKillBonus": 0,
+      "rank": 2,
+      "secondPlaces": 32,
+      "survival": 150,
+      "thirdPlaces": 0,
+      "totalScore": 1219,
+      "version": "1.0.0"
+    }
+  ],
+  "payloadHash": "a7b454452fa976486258f71bc93f3fd05869036223d86de117d7ccc3d3fa842d",
+  "rounds": 35,
+  "submittedBy": "flemming-n-larsen"
+}

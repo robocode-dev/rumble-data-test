@@ -6,7 +6,7 @@
         "Corners 1.0.0",
         "Crazy 1.0.0"
       ],
-      "have": 1,
+      "have": 2,
       "reason": "under-sampled"
     },
     {
@@ -22,7 +22,7 @@
         "Corners 1.0.0",
         "Orbit 1.0.0"
       ],
-      "have": 1,
+      "have": 2,
       "reason": "under-sampled"
     },
     {
@@ -618,7 +618,7 @@
       "reason": "new-bot"
     }
   ],
-  "projectionId": "b3bb2c86827683c838b242ef03d27e92356bbd1e7aedb653292e2d4d9ca12d14",
+  "projectionId": "cf9a5864c9c642c2570603f3e96f882d7fa36372478041c17a80a3b8526ae900",
   "schemaVersion": 1,
   "targetSamplesPerPairing": 6
 }
