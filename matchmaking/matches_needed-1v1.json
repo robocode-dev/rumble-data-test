@@ -6,7 +6,7 @@
         "Corners 1.0.0",
         "Crazy 1.0.0"
       ],
-      "have": 3,
+      "have": 4,
       "reason": "under-sampled"
     },
     {
@@ -38,7 +38,7 @@
         "Corners 1.0.0",
         "RumbleOnboardingScout 1.0.0"
       ],
-      "have": 1,
+      "have": 2,
       "reason": "under-sampled"
     },
     {
@@ -618,7 +618,7 @@
       "reason": "new-bot"
     }
   ],
-  "projectionId": "654e4b48b5519bb3fed264e52f6b81d1a3736352954e75111959b38020af85b5",
+  "projectionId": "7e25b2446f5e06efcdfe8b6961b423900724382a610947a8655a8adc449f1962",
   "schemaVersion": 1,
   "targetSamplesPerPairing": 6
 }

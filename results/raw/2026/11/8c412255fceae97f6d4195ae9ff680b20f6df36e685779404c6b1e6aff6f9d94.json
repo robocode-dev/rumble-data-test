@@ -1,0 +1,51 @@
+{
+  "arenaHeight": 600,
+  "arenaWidth": 800,
+  "battleId": "2cd374eb-5073-4782-b47e-65da1f28686d",
+  "client": {
+    "id": "flemming-n-larsen-c4b67b7a",
+    "version": "1.4.0"
+  },
+  "completedAt": "2026-11-22T15:38:50.102812200Z",
+  "engine": {
+    "behaviorVersion": 2
+  },
+  "gameType": "1v1",
+  "participants": [
+    {
+      "bulletDamage": 5154,
+      "bulletKillBonus": 999,
+      "firstPlaces": 32,
+      "isTeam": false,
+      "lastSurvivorBonus": 320,
+      "name": "RumbleOnboardingScout",
+      "ramDamage": 0,
+      "ramKillBonus": 0,
+      "rank": 1,
+      "secondPlaces": 3,
+      "survival": 1600,
+      "thirdPlaces": 0,
+      "totalScore": 8073,
+      "version": "1.0.0"
+    },
+    {
+      "bulletDamage": 4538,
+      "bulletKillBonus": 74,
+      "firstPlaces": 3,
+      "isTeam": false,
+      "lastSurvivorBonus": 30,
+      "name": "Corners",
+      "ramDamage": 8,
+      "ramKillBonus": 0,
+      "rank": 2,
+      "secondPlaces": 32,
+      "survival": 150,
+      "thirdPlaces": 0,
+      "totalScore": 4800,
+      "version": "1.0.0"
+    }
+  ],
+  "payloadHash": "4d3904ca3229f8e228f9b36a09d7d6936d0e0417045cfd1e6368a79d3907a47e",
+  "rounds": 35,
+  "submittedBy": "flemming-n-larsen"
+}

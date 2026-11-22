@@ -2,7 +2,7 @@
   "gameType": "1v1",
   "pairings": [
     {
-      "battles": 3,
+      "battles": 4,
       "bots": [
         "Corners 1.0.0",
         "Crazy 1.0.0"
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "battles": 1,
+      "battles": 2,
       "bots": [
         "Corners 1.0.0",
         "RumbleOnboardingScout 1.0.0"
@@ -72,6 +72,6 @@
       ]
     }
   ],
-  "projectionId": "654e4b48b5519bb3fed264e52f6b81d1a3736352954e75111959b38020af85b5",
+  "projectionId": "7e25b2446f5e06efcdfe8b6961b423900724382a610947a8655a8adc449f1962",
   "schemaVersion": 1
 }

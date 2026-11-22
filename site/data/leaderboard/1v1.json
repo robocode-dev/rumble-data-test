@@ -24,6 +24,17 @@
       "version": "1.0.0"
     },
     {
+      "aps": 73.2522,
+      "battles": 5,
+      "bot": "Crazy 1.0.0",
+      "epoch": 2,
+      "name": "Crazy",
+      "owner": "flemming-n-larsen",
+      "pairings": 2,
+      "platform": "JVM",
+      "version": "1.0.0"
+    },
+    {
       "aps": 72.0785,
       "battles": 7,
       "bot": "Fire 1.0.0",
@@ -35,19 +46,8 @@
       "version": "1.0.0"
     },
     {
-      "aps": 69.8607,
-      "battles": 4,
-      "bot": "Crazy 1.0.0",
-      "epoch": 2,
-      "name": "Crazy",
-      "owner": "flemming-n-larsen",
-      "pairings": 2,
-      "platform": "JVM",
-      "version": "1.0.0"
-    },
-    {
-      "aps": 67.0875,
-      "battles": 1,
+      "aps": 64.9001,
+      "battles": 2,
       "bot": "RumbleOnboardingScout 1.0.0",
       "epoch": 2,
       "name": "RumbleOnboardingScout",
@@ -57,8 +57,8 @@
       "version": "1.0.0"
     },
     {
-      "aps": 41.1583,
-      "battles": 20,
+      "aps": 40.3924,
+      "battles": 22,
       "bot": "Corners 1.0.0",
       "epoch": 2,
       "name": "Corners",
@@ -146,6 +146,6 @@
     }
   ],
   "gameType": "1v1",
-  "projectionId": "654e4b48b5519bb3fed264e52f6b81d1a3736352954e75111959b38020af85b5",
+  "projectionId": "7e25b2446f5e06efcdfe8b6961b423900724382a610947a8655a8adc449f1962",
   "schemaVersion": 1
 }
