@@ -24,8 +24,8 @@
       "version": "1.0.0"
     },
     {
-      "aps": 73.2522,
-      "battles": 5,
+      "aps": 75.1795,
+      "battles": 6,
       "bot": "Crazy 1.0.0",
       "epoch": 2,
       "name": "Crazy",
@@ -57,8 +57,8 @@
       "version": "1.0.0"
     },
     {
-      "aps": 40.3924,
-      "battles": 22,
+      "aps": 39.75,
+      "battles": 23,
       "bot": "Corners 1.0.0",
       "epoch": 2,
       "name": "Corners",
@@ -146,6 +146,6 @@
     }
   ],
   "gameType": "1v1",
-  "projectionId": "7e25b2446f5e06efcdfe8b6961b423900724382a610947a8655a8adc449f1962",
+  "projectionId": "f19711da81821c6480d8af04268777e62fc380757a34bc07edb4bac1081a5c73",
   "schemaVersion": 1
 }

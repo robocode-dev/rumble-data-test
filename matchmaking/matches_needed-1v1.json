@@ -6,7 +6,7 @@
         "Corners 1.0.0",
         "Crazy 1.0.0"
       ],
-      "have": 4,
+      "have": 5,
       "reason": "under-sampled"
     },
     {
@@ -618,7 +618,7 @@
       "reason": "new-bot"
     }
   ],
-  "projectionId": "7e25b2446f5e06efcdfe8b6961b423900724382a610947a8655a8adc449f1962",
+  "projectionId": "f19711da81821c6480d8af04268777e62fc380757a34bc07edb4bac1081a5c73",
   "schemaVersion": 1,
   "targetSamplesPerPairing": 6
 }
