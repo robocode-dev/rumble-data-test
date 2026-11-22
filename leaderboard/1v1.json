@@ -24,8 +24,8 @@
       "version": "1.0.0"
     },
     {
-      "aps": 72.4823,
-      "battles": 6,
+      "aps": 72.0785,
+      "battles": 7,
       "bot": "Fire 1.0.0",
       "epoch": 2,
       "name": "Fire",
@@ -35,8 +35,8 @@
       "version": "1.0.0"
     },
     {
-      "aps": 65.0184,
-      "battles": 3,
+      "aps": 69.8607,
+      "battles": 4,
       "bot": "Crazy 1.0.0",
       "epoch": 2,
       "name": "Crazy",
@@ -46,13 +46,24 @@
       "version": "1.0.0"
     },
     {
-      "aps": 44.5022,
-      "battles": 17,
+      "aps": 67.0875,
+      "battles": 1,
+      "bot": "RumbleOnboardingScout 1.0.0",
+      "epoch": 2,
+      "name": "RumbleOnboardingScout",
+      "owner": "robocode-rumble-test",
+      "pairings": 1,
+      "platform": "JVM",
+      "version": "1.0.0"
+    },
+    {
+      "aps": 41.1583,
+      "battles": 20,
       "bot": "Corners 1.0.0",
       "epoch": 2,
       "name": "Corners",
       "owner": "flemming-n-larsen",
-      "pairings": 5,
+      "pairings": 6,
       "platform": "JVM",
       "version": "1.0.0"
     },
@@ -76,17 +87,6 @@
       "owner": "flemming-n-larsen",
       "pairings": 3,
       "platform": "Python",
-      "version": "1.0.0"
-    },
-    {
-      "aps": 0.0,
-      "battles": 0,
-      "bot": "RumbleOnboardingScout 1.0.0",
-      "epoch": 2,
-      "name": "RumbleOnboardingScout",
-      "owner": "robocode-rumble-test",
-      "pairings": 0,
-      "platform": "JVM",
       "version": "1.0.0"
     },
     {
@@ -146,6 +146,6 @@
     }
   ],
   "gameType": "1v1",
-  "projectionId": "cf9a5864c9c642c2570603f3e96f882d7fa36372478041c17a80a3b8526ae900",
+  "projectionId": "654e4b48b5519bb3fed264e52f6b81d1a3736352954e75111959b38020af85b5",
   "schemaVersion": 1
 }
