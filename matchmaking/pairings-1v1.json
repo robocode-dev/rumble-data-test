@@ -46,6 +46,13 @@
     {
       "battles": 1,
       "bots": [
+        "Corners 1.0.0",
+        "RumbleTestScout 1.0.2"
+      ]
+    },
+    {
+      "battles": 1,
+      "bots": [
         "Crazy 1.0.0",
         "Vector 1.0.0"
       ]
@@ -72,6 +79,6 @@
       ]
     }
   ],
-  "projectionId": "3d803e64984f362c8e9a78aef05fb3ee2aeaf9bcd3f8834891cfd6e5094ba7cc",
+  "projectionId": "e8e139bddf711ee78e466e81d5444195437627cff1d6fca404498e9952253620",
   "schemaVersion": 1
 }
