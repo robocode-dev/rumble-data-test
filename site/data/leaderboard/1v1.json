@@ -13,6 +13,17 @@
       "version": "0.2.0"
     },
     {
+      "aps": 76.2673,
+      "battles": 7,
+      "bot": "Crazy 1.0.0",
+      "epoch": 2,
+      "name": "Crazy",
+      "owner": "flemming-n-larsen",
+      "pairings": 2,
+      "platform": "JVM",
+      "version": "1.0.0"
+    },
+    {
       "aps": 75.8128,
       "battles": 6,
       "bot": "RamFire 1.0.0",
@@ -20,17 +31,6 @@
       "name": "RamFire",
       "owner": "flemming-n-larsen",
       "pairings": 1,
-      "platform": "JVM",
-      "version": "1.0.0"
-    },
-    {
-      "aps": 75.1795,
-      "battles": 6,
-      "bot": "Crazy 1.0.0",
-      "epoch": 2,
-      "name": "Crazy",
-      "owner": "flemming-n-larsen",
-      "pairings": 2,
       "platform": "JVM",
       "version": "1.0.0"
     },
@@ -57,8 +57,8 @@
       "version": "1.0.0"
     },
     {
-      "aps": 39.6398,
-      "battles": 25,
+      "aps": 39.2679,
+      "battles": 28,
       "bot": "Corners 1.0.0",
       "epoch": 2,
       "name": "Corners",
@@ -79,8 +79,8 @@
       "version": "1.0.0"
     },
     {
-      "aps": 0.1286,
-      "battles": 6,
+      "aps": 0.1471,
+      "battles": 8,
       "bot": "Orbit 1.0.0",
       "epoch": 2,
       "name": "Orbit",
@@ -146,6 +146,6 @@
     }
   ],
   "gameType": "1v1",
-  "projectionId": "86d8bd90b84ede425db8172b10cc13fdc0f7e03fafa2109d5a09daf21d5cb1a5",
+  "projectionId": "b628a2d7328ddfe2c634e0cd8a2964dc3a6eb8c23aa25c041dc2a5fc499a8b14",
   "schemaVersion": 1
 }
