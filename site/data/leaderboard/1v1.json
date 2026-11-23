@@ -2,8 +2,8 @@
   "behaviorVersion": 2,
   "entries": [
     {
-      "aps": 98.0974,
-      "battles": 6,
+      "aps": 97.9616,
+      "battles": 7,
       "bot": "Retcon 0.2.0",
       "epoch": 2,
       "name": "Retcon",
@@ -57,8 +57,8 @@
       "version": "1.0.0"
     },
     {
-      "aps": 39.2679,
-      "battles": 28,
+      "aps": 39.3131,
+      "battles": 29,
       "bot": "Corners 1.0.0",
       "epoch": 2,
       "name": "Corners",
@@ -146,6 +146,6 @@
     }
   ],
   "gameType": "1v1",
-  "projectionId": "b628a2d7328ddfe2c634e0cd8a2964dc3a6eb8c23aa25c041dc2a5fc499a8b14",
+  "projectionId": "7df35e8fb891110e910610d9cdb23566c3e0cf8818b4311cd95b7ed81fc65813",
   "schemaVersion": 1
 }
