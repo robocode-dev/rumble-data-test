@@ -35,17 +35,6 @@
       "version": "1.0.0"
     },
     {
-      "aps": 72.3003,
-      "battles": 1,
-      "bot": "RumbleTestScout 1.0.2",
-      "epoch": 2,
-      "name": "RumbleTestScout",
-      "owner": "robocode-rumble-test",
-      "pairings": 1,
-      "platform": "JVM",
-      "version": "1.0.2"
-    },
-    {
       "aps": 72.0662,
       "battles": 8,
       "bot": "Fire 1.0.0",
@@ -55,6 +44,17 @@
       "pairings": 3,
       "platform": "JVM",
       "version": "1.0.0"
+    },
+    {
+      "aps": 71.3194,
+      "battles": 2,
+      "bot": "RumbleTestScout 1.0.2",
+      "epoch": 2,
+      "name": "RumbleTestScout",
+      "owner": "robocode-rumble-test",
+      "pairings": 1,
+      "platform": "JVM",
+      "version": "1.0.2"
     },
     {
       "aps": 64.9001,
@@ -68,8 +68,8 @@
       "version": "1.0.0"
     },
     {
-      "aps": 37.6336,
-      "battles": 32,
+      "aps": 37.7737,
+      "battles": 33,
       "bot": "Corners 1.0.0",
       "epoch": 2,
       "name": "Corners",
@@ -146,6 +146,6 @@
     }
   ],
   "gameType": "1v1",
-  "projectionId": "e8e139bddf711ee78e466e81d5444195437627cff1d6fca404498e9952253620",
+  "projectionId": "4218f4eef671b69c5013dd708321be01d9158fbbc8f07448d56b8ab1b597b81a",
   "schemaVersion": 1
 }

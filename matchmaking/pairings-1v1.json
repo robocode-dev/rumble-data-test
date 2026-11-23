@@ -44,7 +44,7 @@
       ]
     },
     {
-      "battles": 1,
+      "battles": 2,
       "bots": [
         "Corners 1.0.0",
         "RumbleTestScout 1.0.2"
@@ -79,6 +79,6 @@
       ]
     }
   ],
-  "projectionId": "e8e139bddf711ee78e466e81d5444195437627cff1d6fca404498e9952253620",
+  "projectionId": "4218f4eef671b69c5013dd708321be01d9158fbbc8f07448d56b8ab1b597b81a",
   "schemaVersion": 1
 }
