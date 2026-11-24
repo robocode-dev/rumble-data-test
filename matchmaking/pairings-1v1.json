@@ -84,8 +84,15 @@
         "Orbit 1.0.0",
         "Retcon 0.2.0"
       ]
+    },
+    {
+      "battles": 1,
+      "bots": [
+        "Orbit 1.0.0",
+        "Vector 1.0.0"
+      ]
     }
   ],
-  "projectionId": "6a046961310ef5ef0f1c356882469767afd0c95d2469a6f9ac6b72f14355597b",
+  "projectionId": "30fd1f85b42362f9ca4731585c3fea03a226eab24346ed17f2b43c2114b4a1d5",
   "schemaVersion": 1
 }
