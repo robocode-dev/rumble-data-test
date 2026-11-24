@@ -68,13 +68,13 @@
       "version": "1.0.0"
     },
     {
-      "aps": 37.7404,
-      "battles": 34,
+      "aps": 45.5182,
+      "battles": 35,
       "bot": "Corners 1.0.0",
       "epoch": 2,
       "name": "Corners",
       "owner": "flemming-n-larsen",
-      "pairings": 7,
+      "pairings": 8,
       "platform": "JVM",
       "version": "1.0.0"
     },
@@ -101,22 +101,22 @@
       "version": "1.0.0"
     },
     {
-      "aps": 0.0,
-      "battles": 0,
-      "bot": "SpinBot 1.0.0",
+      "aps": 0.0372,
+      "battles": 1,
+      "bot": "Target 1.0.0",
       "epoch": 2,
-      "name": "SpinBot",
+      "name": "Target",
       "owner": "flemming-n-larsen",
-      "pairings": 0,
+      "pairings": 1,
       "platform": "JVM",
       "version": "1.0.0"
     },
     {
       "aps": 0.0,
       "battles": 0,
-      "bot": "Target 1.0.0",
+      "bot": "SpinBot 1.0.0",
       "epoch": 2,
-      "name": "Target",
+      "name": "SpinBot",
       "owner": "flemming-n-larsen",
       "pairings": 0,
       "platform": "JVM",
@@ -146,6 +146,6 @@
     }
   ],
   "gameType": "1v1",
-  "projectionId": "4860444cf9204c635d76f76b8a8b1c20ef30566fed028ea1688282cb8e82cf98",
+  "projectionId": "14abbcd08781108c6876796e5227d5870d1c2555e81cbeba3971d02e1a3dce60",
   "schemaVersion": 1
 }

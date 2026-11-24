@@ -53,6 +53,13 @@
     {
       "battles": 1,
       "bots": [
+        "Corners 1.0.0",
+        "Target 1.0.0"
+      ]
+    },
+    {
+      "battles": 1,
+      "bots": [
         "Crazy 1.0.0",
         "Vector 1.0.0"
       ]
@@ -79,6 +86,6 @@
       ]
     }
   ],
-  "projectionId": "4860444cf9204c635d76f76b8a8b1c20ef30566fed028ea1688282cb8e82cf98",
+  "projectionId": "14abbcd08781108c6876796e5227d5870d1c2555e81cbeba3971d02e1a3dce60",
   "schemaVersion": 1
 }
