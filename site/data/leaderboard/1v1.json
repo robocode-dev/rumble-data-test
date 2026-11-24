@@ -13,6 +13,17 @@
       "version": "0.2.0"
     },
     {
+      "aps": 92.8332,
+      "battles": 2,
+      "bot": "TrackFire 1.0.0",
+      "epoch": 2,
+      "name": "TrackFire",
+      "owner": "flemming-n-larsen",
+      "pairings": 1,
+      "platform": "JVM",
+      "version": "1.0.0"
+    },
+    {
       "aps": 76.2673,
       "battles": 7,
       "bot": "Crazy 1.0.0",
@@ -68,13 +79,13 @@
       "version": "1.0.0"
     },
     {
-      "aps": 45.5274,
-      "battles": 36,
+      "aps": 41.2651,
+      "battles": 38,
       "bot": "Corners 1.0.0",
       "epoch": 2,
       "name": "Corners",
       "owner": "flemming-n-larsen",
-      "pairings": 8,
+      "pairings": 9,
       "platform": "JVM",
       "version": "1.0.0"
     },
@@ -125,17 +136,6 @@
     {
       "aps": 0.0,
       "battles": 0,
-      "bot": "TrackFire 1.0.0",
-      "epoch": 2,
-      "name": "TrackFire",
-      "owner": "flemming-n-larsen",
-      "pairings": 0,
-      "platform": "JVM",
-      "version": "1.0.0"
-    },
-    {
-      "aps": 0.0,
-      "battles": 0,
       "bot": "Walls 1.0.0",
       "epoch": 2,
       "name": "Walls",
@@ -146,6 +146,6 @@
     }
   ],
   "gameType": "1v1",
-  "projectionId": "30fd1f85b42362f9ca4731585c3fea03a226eab24346ed17f2b43c2114b4a1d5",
+  "projectionId": "ed02b0c9ab1cece7842e3fe0b23bd1c4b7e09d81eeafd533e7c6e619f47a444c",
   "schemaVersion": 1
 }
