@@ -14,7 +14,7 @@
         "Corners 1.0.0",
         "RumbleTestScout 1.0.2"
       ],
-      "have": 3,
+      "have": 4,
       "reason": "under-sampled"
     },
     {
@@ -586,7 +586,7 @@
       "reason": "new-bot"
     }
   ],
-  "projectionId": "ee9ef698f64bc2d6c4abd95e50d5fe5a9c2212b9cad3140bb7c519b32968229b",
+  "projectionId": "1e29134c4351f664def96e2627c4dbafd1b1e27c0f022eb385234c358512c34f",
   "schemaVersion": 1,
   "targetSamplesPerPairing": 6
 }

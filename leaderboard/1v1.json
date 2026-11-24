@@ -57,8 +57,8 @@
       "version": "1.0.0"
     },
     {
-      "aps": 71.5525,
-      "battles": 3,
+      "aps": 71.5841,
+      "battles": 4,
       "bot": "RumbleTestScout 1.0.2",
       "epoch": 2,
       "name": "RumbleTestScout",
@@ -79,8 +79,8 @@
       "version": "1.0.0"
     },
     {
-      "aps": 41.2651,
-      "battles": 38,
+      "aps": 41.2616,
+      "battles": 39,
       "bot": "Corners 1.0.0",
       "epoch": 2,
       "name": "Corners",
@@ -146,6 +146,6 @@
     }
   ],
   "gameType": "1v1",
-  "projectionId": "ee9ef698f64bc2d6c4abd95e50d5fe5a9c2212b9cad3140bb7c519b32968229b",
+  "projectionId": "1e29134c4351f664def96e2627c4dbafd1b1e27c0f022eb385234c358512c34f",
   "schemaVersion": 1
 }
