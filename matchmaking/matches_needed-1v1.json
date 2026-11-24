@@ -4,14 +4,6 @@
     {
       "bots": [
         "Corners 1.0.0",
-        "Orbit 1.0.0"
-      ],
-      "have": 5,
-      "reason": "under-sampled"
-    },
-    {
-      "bots": [
-        "Corners 1.0.0",
         "RumbleOnboardingScout 1.0.0"
       ],
       "have": 2,
@@ -594,7 +586,7 @@
       "reason": "new-bot"
     }
   ],
-  "projectionId": "14abbcd08781108c6876796e5227d5870d1c2555e81cbeba3971d02e1a3dce60",
+  "projectionId": "6a046961310ef5ef0f1c356882469767afd0c95d2469a6f9ac6b72f14355597b",
   "schemaVersion": 1,
   "targetSamplesPerPairing": 6
 }

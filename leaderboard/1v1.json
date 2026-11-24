@@ -68,8 +68,8 @@
       "version": "1.0.0"
     },
     {
-      "aps": 45.5182,
-      "battles": 35,
+      "aps": 45.5274,
+      "battles": 36,
       "bot": "Corners 1.0.0",
       "epoch": 2,
       "name": "Corners",
@@ -90,8 +90,8 @@
       "version": "1.0.0"
     },
     {
-      "aps": 0.1471,
-      "battles": 8,
+      "aps": 0.1226,
+      "battles": 9,
       "bot": "Orbit 1.0.0",
       "epoch": 2,
       "name": "Orbit",
@@ -146,6 +146,6 @@
     }
   ],
   "gameType": "1v1",
-  "projectionId": "14abbcd08781108c6876796e5227d5870d1c2555e81cbeba3971d02e1a3dce60",
+  "projectionId": "6a046961310ef5ef0f1c356882469767afd0c95d2469a6f9ac6b72f14355597b",
   "schemaVersion": 1
 }
