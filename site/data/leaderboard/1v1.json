@@ -90,8 +90,8 @@
       "version": "1.0.0"
     },
     {
-      "aps": 29.9914,
-      "battles": 3,
+      "aps": 31.454,
+      "battles": 4,
       "bot": "Vector 1.0.0",
       "epoch": 2,
       "name": "Vector",
@@ -101,8 +101,8 @@
       "version": "1.0.0"
     },
     {
-      "aps": 17.1668,
-      "battles": 10,
+      "aps": 16.0699,
+      "battles": 11,
       "bot": "Orbit 1.0.0",
       "epoch": 2,
       "name": "Orbit",
@@ -146,6 +146,6 @@
     }
   ],
   "gameType": "1v1",
-  "projectionId": "ed02b0c9ab1cece7842e3fe0b23bd1c4b7e09d81eeafd533e7c6e619f47a444c",
+  "projectionId": "ee9ef698f64bc2d6c4abd95e50d5fe5a9c2212b9cad3140bb7c519b32968229b",
   "schemaVersion": 1
 }

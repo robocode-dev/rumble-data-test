@@ -93,13 +93,13 @@
       ]
     },
     {
-      "battles": 1,
+      "battles": 2,
       "bots": [
         "Orbit 1.0.0",
         "Vector 1.0.0"
       ]
     }
   ],
-  "projectionId": "ed02b0c9ab1cece7842e3fe0b23bd1c4b7e09d81eeafd533e7c6e619f47a444c",
+  "projectionId": "ee9ef698f64bc2d6c4abd95e50d5fe5a9c2212b9cad3140bb7c519b32968229b",
   "schemaVersion": 1
 }
