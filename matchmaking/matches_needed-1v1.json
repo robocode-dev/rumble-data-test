@@ -30,7 +30,7 @@
         "Corners 1.0.0",
         "Target 1.0.0"
       ],
-      "have": 1,
+      "have": 2,
       "reason": "under-sampled"
     },
     {
@@ -586,7 +586,7 @@
       "reason": "new-bot"
     }
   ],
-  "projectionId": "1e29134c4351f664def96e2627c4dbafd1b1e27c0f022eb385234c358512c34f",
+  "projectionId": "ca0ed4682dd034f3d4fc42169ea802eabf7bcbe29f11070faedeb05c206e7fae",
   "schemaVersion": 1,
   "targetSamplesPerPairing": 6
 }
